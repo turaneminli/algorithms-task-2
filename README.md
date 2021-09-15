@@ -29,15 +29,15 @@ In first two lines:
 Matrix:
 each element should be entered for each row. Each line contains the elements of row and then you push enter and add the elements of next row.
 
-```bash
-5 4 4
-4 3 4
-3 2 4
-2 2 2
-3 3 4
-1 4 4
+
+5 4 4 <br />
+4 3 4 <br />
+3 2 4 <br />
+2 2 2 <br />
+3 3 4 <br />
+1 4 4 <br />
 4 1 1
-```
+
 
 Output:
 11 is output for the country count.
