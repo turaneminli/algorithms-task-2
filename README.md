@@ -26,7 +26,7 @@ In first two lines:
 - 7 is the number of rows;
 - 3 is the number of columns.
 
-- Matrix:
+Matrix:
 each element should be entered for each row. Each line contains the elements of row and then you push enter and add the elements of next row.
 
 ```bash
@@ -39,8 +39,11 @@ each element should be entered for each row. Each line contains the elements of 
 4 1 1
 ```
 
-- Output:
+Output:
 11 is output for the country count.
+
+
+
 
 ```bash
 7
